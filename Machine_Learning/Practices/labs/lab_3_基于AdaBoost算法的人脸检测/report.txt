@@ -1,0 +1,828 @@
+
+model 1:
+number of decision tree:1
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.90      0.74      0.81       197
+      nonface       0.78      0.92      0.84       203
+
+    accuracy                           0.83       400
+   macro avg       0.84      0.83      0.83       400
+weighted avg       0.84      0.83      0.83       400
+
+model 2:
+number of decision tree:2
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.90      0.74      0.81       197
+      nonface       0.78      0.92      0.84       203
+
+    accuracy                           0.83       400
+   macro avg       0.84      0.83      0.83       400
+weighted avg       0.84      0.83      0.83       400
+
+model 3:
+number of decision tree:3
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.97      0.85      0.91       197
+      nonface       0.87      0.98      0.92       203
+
+    accuracy                           0.92       400
+   macro avg       0.92      0.91      0.91       400
+weighted avg       0.92      0.92      0.91       400
+
+model 4:
+number of decision tree:4
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.94      0.84      0.89       197
+      nonface       0.86      0.95      0.90       203
+
+    accuracy                           0.90       400
+   macro avg       0.90      0.90      0.90       400
+weighted avg       0.90      0.90      0.90       400
+
+model 5:
+number of decision tree:5
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.97      0.91      0.94       197
+      nonface       0.92      0.97      0.94       203
+
+    accuracy                           0.94       400
+   macro avg       0.94      0.94      0.94       400
+weighted avg       0.94      0.94      0.94       400
+
+model 6:
+number of decision tree:6
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.93      0.91      0.92       197
+      nonface       0.91      0.94      0.92       203
+
+    accuracy                           0.92       400
+   macro avg       0.92      0.92      0.92       400
+weighted avg       0.92      0.92      0.92       400
+
+model 7:
+number of decision tree:7
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.97      0.90      0.93       197
+      nonface       0.91      0.97      0.94       203
+
+    accuracy                           0.94       400
+   macro avg       0.94      0.94      0.94       400
+weighted avg       0.94      0.94      0.94       400
+
+model 8:
+number of decision tree:8
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.94      0.90      0.92       197
+      nonface       0.91      0.95      0.93       203
+
+    accuracy                           0.93       400
+   macro avg       0.93      0.92      0.92       400
+weighted avg       0.93      0.93      0.92       400
+
+model 9:
+number of decision tree:9
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.97      0.91      0.94       197
+      nonface       0.92      0.97      0.94       203
+
+    accuracy                           0.94       400
+   macro avg       0.94      0.94      0.94       400
+weighted avg       0.94      0.94      0.94       400
+
+model 10:
+number of decision tree:10
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.95      0.92      0.94       197
+      nonface       0.93      0.95      0.94       203
+
+    accuracy                           0.94       400
+   macro avg       0.94      0.94      0.94       400
+weighted avg       0.94      0.94      0.94       400
+
+model 11:
+number of decision tree:1
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.94      0.90      0.92       197
+      nonface       0.91      0.95      0.93       203
+
+    accuracy                           0.93       400
+   macro avg       0.93      0.92      0.92       400
+weighted avg       0.93      0.93      0.92       400
+
+model 12:
+number of decision tree:2
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.94      0.90      0.92       197
+      nonface       0.91      0.94      0.92       203
+
+    accuracy                           0.92       400
+   macro avg       0.92      0.92      0.92       400
+weighted avg       0.92      0.92      0.92       400
+
+model 13:
+number of decision tree:3
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.94      0.90      0.92       197
+      nonface       0.91      0.94      0.92       203
+
+    accuracy                           0.92       400
+   macro avg       0.92      0.92      0.92       400
+weighted avg       0.92      0.92      0.92       400
+
+model 14:
+number of decision tree:4
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.96      0.94      0.95       197
+      nonface       0.94      0.97      0.95       203
+
+    accuracy                           0.95       400
+   macro avg       0.95      0.95      0.95       400
+weighted avg       0.95      0.95      0.95       400
+
+model 15:
+number of decision tree:5
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.96      0.93      0.94       197
+      nonface       0.93      0.96      0.95       203
+
+    accuracy                           0.94       400
+   macro avg       0.95      0.94      0.94       400
+weighted avg       0.95      0.94      0.94       400
+
+model 16:
+number of decision tree:6
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.95      0.96      0.95       197
+      nonface       0.96      0.95      0.96       203
+
+    accuracy                           0.95       400
+   macro avg       0.95      0.96      0.95       400
+weighted avg       0.96      0.95      0.96       400
+
+model 17:
+number of decision tree:7
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.97      0.97      0.97       197
+      nonface       0.98      0.97      0.97       203
+
+    accuracy                           0.97       400
+   macro avg       0.97      0.97      0.97       400
+weighted avg       0.97      0.97      0.97       400
+
+model 18:
+number of decision tree:8
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.96      0.97      0.97       197
+      nonface       0.97      0.97      0.97       203
+
+    accuracy                           0.97       400
+   macro avg       0.97      0.97      0.97       400
+weighted avg       0.97      0.97      0.97       400
+
+model 19:
+number of decision tree:9
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.97      0.99      0.98       197
+      nonface       0.99      0.98      0.98       203
+
+    accuracy                           0.98       400
+   macro avg       0.98      0.98      0.98       400
+weighted avg       0.98      0.98      0.98       400
+
+model 20:
+number of decision tree:10
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.97      0.99      0.98       197
+      nonface       0.99      0.97      0.98       203
+
+    accuracy                           0.98       400
+   macro avg       0.98      0.98      0.98       400
+weighted avg       0.98      0.98      0.98       400
+
+model 21:
+number of decision tree:1
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.92      0.92      0.92       197
+      nonface       0.92      0.92      0.92       203
+
+    accuracy                           0.92       400
+   macro avg       0.92      0.92      0.92       400
+weighted avg       0.92      0.92      0.92       400
+
+model 22:
+number of decision tree:2
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.90      0.87      0.88       197
+      nonface       0.88      0.90      0.89       203
+
+    accuracy                           0.89       400
+   macro avg       0.89      0.89      0.89       400
+weighted avg       0.89      0.89      0.89       400
+
+model 23:
+number of decision tree:3
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.95      0.94      0.95       197
+      nonface       0.95      0.95      0.95       203
+
+    accuracy                           0.95       400
+   macro avg       0.95      0.95      0.95       400
+weighted avg       0.95      0.95      0.95       400
+
+model 24:
+number of decision tree:4
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.94      0.95      0.94       197
+      nonface       0.95      0.94      0.95       203
+
+    accuracy                           0.94       400
+   macro avg       0.94      0.95      0.94       400
+weighted avg       0.95      0.94      0.95       400
+
+model 25:
+number of decision tree:5
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.95      0.97      0.96       197
+      nonface       0.97      0.95      0.96       203
+
+    accuracy                           0.96       400
+   macro avg       0.96      0.96      0.96       400
+weighted avg       0.96      0.96      0.96       400
+
+model 26:
+number of decision tree:6
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.96      0.94      0.95       197
+      nonface       0.94      0.97      0.95       203
+
+    accuracy                           0.95       400
+   macro avg       0.95      0.95      0.95       400
+weighted avg       0.95      0.95      0.95       400
+
+model 27:
+number of decision tree:7
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.96      0.96      0.96       197
+      nonface       0.97      0.96      0.96       203
+
+    accuracy                           0.96       400
+   macro avg       0.96      0.96      0.96       400
+weighted avg       0.96      0.96      0.96       400
+
+model 28:
+number of decision tree:8
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.98      0.97      0.98       197
+      nonface       0.98      0.99      0.98       203
+
+    accuracy                           0.98       400
+   macro avg       0.98      0.98      0.98       400
+weighted avg       0.98      0.98      0.98       400
+
+model 29:
+number of decision tree:9
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.96      0.97      0.96       197
+      nonface       0.97      0.96      0.97       203
+
+    accuracy                           0.96       400
+   macro avg       0.96      0.97      0.96       400
+weighted avg       0.97      0.96      0.97       400
+
+model 1:
+number of decision tree:1
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.90      0.74      0.81       197
+      nonface       0.78      0.92      0.84       203
+
+    accuracy                           0.83       400
+   macro avg       0.84      0.83      0.83       400
+weighted avg       0.84      0.83      0.83       400
+
+model 2:
+number of decision tree:2
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.90      0.74      0.81       197
+      nonface       0.78      0.92      0.84       203
+
+    accuracy                           0.83       400
+   macro avg       0.84      0.83      0.83       400
+weighted avg       0.84      0.83      0.83       400
+
+model 3:
+number of decision tree:3
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.97      0.85      0.91       197
+      nonface       0.87      0.98      0.92       203
+
+    accuracy                           0.92       400
+   macro avg       0.92      0.91      0.91       400
+weighted avg       0.92      0.92      0.91       400
+
+model 4:
+number of decision tree:4
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.94      0.84      0.89       197
+      nonface       0.86      0.95      0.90       203
+
+    accuracy                           0.90       400
+   macro avg       0.90      0.90      0.90       400
+weighted avg       0.90      0.90      0.90       400
+
+model 5:
+number of decision tree:5
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.97      0.91      0.94       197
+      nonface       0.92      0.97      0.94       203
+
+    accuracy                           0.94       400
+   macro avg       0.94      0.94      0.94       400
+weighted avg       0.94      0.94      0.94       400
+
+model 6:
+number of decision tree:6
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.93      0.91      0.92       197
+      nonface       0.91      0.94      0.92       203
+
+    accuracy                           0.92       400
+   macro avg       0.92      0.92      0.92       400
+weighted avg       0.92      0.92      0.92       400
+
+model 7:
+number of decision tree:7
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.97      0.90      0.93       197
+      nonface       0.91      0.97      0.94       203
+
+    accuracy                           0.94       400
+   macro avg       0.94      0.94      0.94       400
+weighted avg       0.94      0.94      0.94       400
+
+model 8:
+number of decision tree:8
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.94      0.90      0.92       197
+      nonface       0.91      0.95      0.93       203
+
+    accuracy                           0.93       400
+   macro avg       0.93      0.92      0.92       400
+weighted avg       0.93      0.93      0.92       400
+
+model 9:
+number of decision tree:9
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.97      0.91      0.94       197
+      nonface       0.92      0.97      0.94       203
+
+    accuracy                           0.94       400
+   macro avg       0.94      0.94      0.94       400
+weighted avg       0.94      0.94      0.94       400
+
+model 10:
+number of decision tree:10
+max_depth of decision tree:1
+              precision    recall  f1-score   support
+
+        face       0.95      0.92      0.94       197
+      nonface       0.93      0.95      0.94       203
+
+    accuracy                           0.94       400
+   macro avg       0.94      0.94      0.94       400
+weighted avg       0.94      0.94      0.94       400
+
+model 11:
+number of decision tree:1
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.94      0.90      0.92       197
+      nonface       0.91      0.94      0.92       203
+
+    accuracy                           0.92       400
+   macro avg       0.92      0.92      0.92       400
+weighted avg       0.92      0.92      0.92       400
+
+model 12:
+number of decision tree:2
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.94      0.90      0.92       197
+      nonface       0.91      0.95      0.93       203
+
+    accuracy                           0.93       400
+   macro avg       0.93      0.92      0.92       400
+weighted avg       0.93      0.93      0.92       400
+
+model 13:
+number of decision tree:3
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.94      0.90      0.92       197
+      nonface       0.91      0.94      0.92       203
+
+    accuracy                           0.92       400
+   macro avg       0.92      0.92      0.92       400
+weighted avg       0.92      0.92      0.92       400
+
+model 14:
+number of decision tree:4
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.96      0.94      0.95       197
+      nonface       0.94      0.97      0.95       203
+
+    accuracy                           0.95       400
+   macro avg       0.95      0.95      0.95       400
+weighted avg       0.95      0.95      0.95       400
+
+model 15:
+number of decision tree:5
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.95      0.93      0.94       197
+      nonface       0.93      0.96      0.94       203
+
+    accuracy                           0.94       400
+   macro avg       0.94      0.94      0.94       400
+weighted avg       0.94      0.94      0.94       400
+
+model 16:
+number of decision tree:6
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.94      0.96      0.95       197
+      nonface       0.96      0.95      0.95       203
+
+    accuracy                           0.95       400
+   macro avg       0.95      0.95      0.95       400
+weighted avg       0.95      0.95      0.95       400
+
+model 17:
+number of decision tree:7
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.97      0.97      0.97       197
+      nonface       0.98      0.97      0.97       203
+
+    accuracy                           0.97       400
+   macro avg       0.97      0.97      0.97       400
+weighted avg       0.97      0.97      0.97       400
+
+model 18:
+number of decision tree:8
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.96      0.97      0.97       197
+      nonface       0.97      0.97      0.97       203
+
+    accuracy                           0.97       400
+   macro avg       0.97      0.97      0.97       400
+weighted avg       0.97      0.97      0.97       400
+
+model 19:
+number of decision tree:9
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.97      0.99      0.98       197
+      nonface       0.99      0.98      0.98       203
+
+    accuracy                           0.98       400
+   macro avg       0.98      0.98      0.98       400
+weighted avg       0.98      0.98      0.98       400
+
+model 20:
+number of decision tree:10
+max_depth of decision tree:2
+              precision    recall  f1-score   support
+
+        face       0.97      0.99      0.98       197
+      nonface       0.99      0.97      0.98       203
+
+    accuracy                           0.98       400
+   macro avg       0.98      0.98      0.98       400
+weighted avg       0.98      0.98      0.98       400
+
+model 21:
+number of decision tree:1
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.92      0.93      0.93       197
+      nonface       0.93      0.93      0.93       203
+
+    accuracy                           0.93       400
+   macro avg       0.93      0.93      0.93       400
+weighted avg       0.93      0.93      0.93       400
+
+model 22:
+number of decision tree:2
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.90      0.88      0.89       197
+      nonface       0.89      0.91      0.90       203
+
+    accuracy                           0.90       400
+   macro avg       0.90      0.89      0.89       400
+weighted avg       0.90      0.90      0.89       400
+
+model 23:
+number of decision tree:3
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.93      0.95      0.94       197
+      nonface       0.95      0.93      0.94       203
+
+    accuracy                           0.94       400
+   macro avg       0.94      0.94      0.94       400
+weighted avg       0.94      0.94      0.94       400
+
+model 24:
+number of decision tree:4
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.96      0.93      0.94       197
+      nonface       0.93      0.96      0.95       203
+
+    accuracy                           0.94       400
+   macro avg       0.95      0.94      0.94       400
+weighted avg       0.95      0.94      0.94       400
+
+model 25:
+number of decision tree:5
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.96      0.95      0.96       197
+      nonface       0.96      0.96      0.96       203
+
+    accuracy                           0.96       400
+   macro avg       0.96      0.96      0.96       400
+weighted avg       0.96      0.96      0.96       400
+
+model 26:
+number of decision tree:6
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.96      0.96      0.96       197
+      nonface       0.97      0.96      0.96       203
+
+    accuracy                           0.96       400
+   macro avg       0.96      0.96      0.96       400
+weighted avg       0.96      0.96      0.96       400
+
+model 27:
+number of decision tree:7
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.95      0.97      0.96       197
+      nonface       0.97      0.95      0.96       203
+
+    accuracy                           0.96       400
+   macro avg       0.96      0.96      0.96       400
+weighted avg       0.96      0.96      0.96       400
+
+model 28:
+number of decision tree:8
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.96      0.97      0.97       197
+      nonface       0.97      0.97      0.97       203
+
+    accuracy                           0.97       400
+   macro avg       0.97      0.97      0.97       400
+weighted avg       0.97      0.97      0.97       400
+
+model 29:
+number of decision tree:9
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.96      0.97      0.97       197
+      nonface       0.97      0.97      0.97       203
+
+    accuracy                           0.97       400
+   macro avg       0.97      0.97      0.97       400
+weighted avg       0.97      0.97      0.97       400
+
+model 30:
+number of decision tree:10
+max_depth of decision tree:3
+              precision    recall  f1-score   support
+
+        face       0.96      0.97      0.97       197
+      nonface       0.97      0.97      0.97       203
+
+    accuracy                           0.97       400
+   macro avg       0.97      0.97      0.97       400
+weighted avg       0.97      0.97      0.97       400
+
+model 31:
+number of decision tree:1
+max_depth of decision tree:4
+              precision    recall  f1-score   support
+
+        face       0.93      0.93      0.93       197
+      nonface       0.94      0.94      0.94       203
+
+    accuracy                           0.94       400
+   macro avg       0.93      0.93      0.93       400
+weighted avg       0.94      0.94      0.94       400
+
+model 32:
+number of decision tree:2
+max_depth of decision tree:4
+              precision    recall  f1-score   support
+
+        face       0.90      0.88      0.89       197
+      nonface       0.88      0.90      0.89       203
+
+    accuracy                           0.89       400
+   macro avg       0.89      0.89      0.89       400
+weighted avg       0.89      0.89      0.89       400
+
+model 33:
+number of decision tree:3
+max_depth of decision tree:4
+              precision    recall  f1-score   support
+
+        face       0.92      0.94      0.93       197
+      nonface       0.94      0.92      0.93       203
+
+    accuracy                           0.93       400
+   macro avg       0.93      0.93      0.93       400
+weighted avg       0.93      0.93      0.93       400
+
+model 34:
+number of decision tree:4
+max_depth of decision tree:4
+              precision    recall  f1-score   support
+
+        face       0.96      0.91      0.94       197
+      nonface       0.92      0.97      0.94       203
+
+    accuracy                           0.94       400
+   macro avg       0.94      0.94      0.94       400
+weighted avg       0.94      0.94      0.94       400
+
+model 35:
+number of decision tree:5
+max_depth of decision tree:4
+              precision    recall  f1-score   support
+
+        face       0.93      0.94      0.94       197
+      nonface       0.95      0.94      0.94       203
+
+    accuracy                           0.94       400
+   macro avg       0.94      0.94      0.94       400
+weighted avg       0.94      0.94      0.94       400
+
+model 36:
+number of decision tree:6
+max_depth of decision tree:4
+              precision    recall  f1-score   support
+
+        face       0.96      0.95      0.96       197
+      nonface       0.95      0.97      0.96       203
+
+    accuracy                           0.96       400
+   macro avg       0.96      0.96      0.96       400
+weighted avg       0.96      0.96      0.96       400
+
+model 37:
+number of decision tree:7
+max_depth of decision tree:4
+              precision    recall  f1-score   support
+
+        face       0.95      0.96      0.96       197
+      nonface       0.96      0.96      0.96       203
+
+    accuracy                           0.96       400
+   macro avg       0.96      0.96      0.96       400
+weighted avg       0.96      0.96      0.96       400
+
+model 38:
+number of decision tree:8
+max_depth of decision tree:4
+              precision    recall  f1-score   support
+
+        face       0.96      0.95      0.96       197
+      nonface       0.95      0.97      0.96       203
+
+    accuracy                           0.96       400
+   macro avg       0.96      0.96      0.96       400
+weighted avg       0.96      0.96      0.96       400
+
+model 39:
+number of decision tree:9
+max_depth of decision tree:4
+              precision    recall  f1-score   support
+
+        face       0.95      0.97      0.96       197
+      nonface       0.97      0.96      0.96       203
+
+    accuracy                           0.96       400
+   macro avg       0.96      0.96      0.96       400
+weighted avg       0.96      0.96      0.96       400
+
+model 40:
+number of decision tree:10
+max_depth of decision tree:4
+              precision    recall  f1-score   support
+
+        face       0.98      0.96      0.97       197
+      nonface       0.96      0.98      0.97       203
+
+    accuracy                           0.97       400
+   macro avg       0.97      0.97      0.97       400
+weighted avg       0.97      0.97      0.97       400
